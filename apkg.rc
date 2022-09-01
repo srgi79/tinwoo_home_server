@@ -1,0 +1,18 @@
+Package:            Tinwoo
+Section:            Addon
+Version:            1.00
+Packager:           WD
+Email:              support@wdc.com
+Homepage:           http://support@wdc.com
+Description:        Tinwoo Shop
+Icon:               Tinwoo.png
+AddonShowName:      tinwoo
+AddonIndexPage:     index.php
+AddonUsedPort:      
+InstDepend:         
+InstConflict:       
+StartDepend:        
+StartConflict:
+MinFWVer:
+MaxFWVer:
+IndividualFlag:     0   

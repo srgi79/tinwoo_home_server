@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <apkg>
+    <item>
+      <procudt_id>0</procudt_id>
+      <custom_id>20</custom_id>
+      <model_id>1</model_id>
+      <user_control>0</user_control>
+      <center_type>0</center_type>
+      <individual_flag>0</individual_flag>
+      <name>tinwoo</name>
+      <show>tinwoo</show>
+      <enable>1</enable>
+      <version>1.00</version>
+      <date>20220829</date>
+      <inst_date>08/29/2022 18:00:00</inst_date>
+      <path>/mnt/HD/HD_a2/Nas_Prog/Tinwoo</path>
+      <ps_name></ps_name>
+      <url>index.php</url>
+      <url_port></url_port>
+      <apkg_version>2</apkg_version>
+      <packager>WD</packager>
+      <email>support@wdc.com</email>
+      <homepage>http://support@wdc.com</homepage>
+      <inst_depend></inst_depend>
+      <inst_conflict></inst_conflict>
+      <start_depend></start_depend>
+      <start_conflict></start_conflict>
+      <description>Tinwoo Shop</description>
+      <icon>Tinwoo.png</icon>
+      <MinFWVer></MinFWVer>
+      <MaxFWVer></MaxFWVer>
+    </item>
+  </apkg>
+</config>
