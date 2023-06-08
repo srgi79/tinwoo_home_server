@@ -15,7 +15,7 @@ I use "folder_name_template": "{TITLE_NAME} [{TITLE_ID}]" and "file_name_templat
 ## INSTALATION (on WD MyCloud Mirror Gen1 [TESTED])
 - Modify **index.php** with your settings: $FOLDER, $WEB_FOLDER, $SERVER, $PORT, $MOTD...
 - Copy **index.php** in your apache folder: Ex: /var/www/tinwoo/index.php
-- Create a symlink from your game folder to the same folder: Ex: ln -s /mnt/HD/HD_a2/Public/GamesSwitch /var/www/tinfoil/
+- Create a symlink from your game folder to the same folder: Ex: ln -s /mnt/HD/HD_a2/Public/games/01_SWITCH /var/www/tinwoo/GamesSwitch
 - Restart apache server from root in ssh: /usr/local/modules/script/apache restart web
 - Test it with the next chapter
 - Create a folder in /mnt/HD/HD_a2/Nas_Prog/Tinwoo
