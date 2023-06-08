@@ -9,7 +9,7 @@ I use "folder_name_template": "{TITLE_NAME} [{TITLE_ID}]" and "file_name_templat
 ## INSTALATION (on minimal debian)
 - Modify **index.php** with your settings: $FOLDER, $WEB_FOLDER, $SERVER, $PORT, $MOTD...
 - Copy **index.php** in your apache folder: Ex: /var/www/tinwoo/index.php
-- Create a symlink from your game folder to the same folder: Ex: ln -s /mnt/GamesSwitch /var/www/tinfoil/
+- Create a symlink from your game folder to the same folder: Ex: ln -s /mnt/GamesSwitch /var/www/tinwoo/
 - Restart apache server : /usr/local/modules/script/apache restart web
 
 ## INSTALATION (on WD MyCloud Mirror Gen1 [TESTED])
